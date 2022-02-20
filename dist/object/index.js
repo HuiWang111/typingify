@@ -1,0 +1,1 @@
+export { typeParser } from './paraser';
